@@ -1,0 +1,48 @@
+
+# lines starting with the # symbol are comments
+
+
+#
+# T-cell large granular lymphocyte leukemia model
+#
+# Node initialization below, 
+# ( all other nodes are set to false inside the program)
+#
+
+Migration = PCM1 = BBS4 = DISC1 = True
+
+#
+# Model specification syntax
+#
+# rank: new-node1 *=  node1 and node2 or node3  ... etc
+#
+# the first number is the rank (all are set to 1 here)
+#
+# 1: A *= A or B
+#
+# means that the new value of A is equal to the old values 
+# of A and B combined with the operator 'or'
+#
+# model starts below
+#
+1: PCM1* = (BBS4 and DISC1) and not (EGR1 or TAL1 or TCF3 or STAT3 or RXR)
+1: BBS4* = (PCM1 and DISC1) and not STAT3
+1: EGR1* = not miR183
+1: TAL1* = not miR223
+1: TCF3* = not miR320a
+1: STAT3* = not (miR155 or miR106a or miR20a or miR17 or miR130a or miR125b or miR20b)
+1: RXR* = not (miR484)
+1: miR183* = EGR1
+1: miR223* = TAL1
+1: miR320a* = TCF3
+1: miR155* = STAT3
+1: miR106a* = STAT3
+1: miR17* = STAT3
+1: miR130a* = STAT3
+1: miR125b* = STAT3
+1: miR20b* = STAT3
+1: miR20a* = STAT3 
+1: miR484* = RXR
+1: DISC1* = (PCM1 and BBS4) and not (TAL1 or TCF3 or STAT3)
+1: Migration* = PCM1 and BBS4 and DISC1
+

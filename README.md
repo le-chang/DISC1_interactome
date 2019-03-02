@@ -1,9 +1,9 @@
 ## Transcriptional regulation of the DISC1 interactome 
----
+
 This repository includes the files for node perturbation and attractor analysis used for analysing the transcriptional regulation of the DISC1 interactome mediating neuronal migration. The code for node perturbation analysis was adapted from [BooleanNet](https://github.com/ialbert/booleannet) and attractor analysis from [BoolNet](https://cran.r-project.org/web/packages/BoolNet/index.html) by Priyadarshini Thirunavukkarasu and Pravesh Parekh at the [Multimodal Brain Image Analysis Laboratory (MBIAL)](https://mbial.weebly.com/), supervised by Dr. John P. John in collaboration with Dr. Akira Sawa and Dr. Koko Ishizuka from Johns Hopkins University, School of Medicine, Baltimore. 
 
-### Software
----
+## Software
+
 Attractor analysis was performed using R 3.4.1 [BoolNet 2.1.3](https://cran.r-project.org/web/packages/BoolNet/index.html) package. 
 
 Node perturbation analysis was performed using Python 2.7.11 [BooleanNet 1.2.7](https://github.com/ialbert/booleannet) package.
@@ -12,8 +12,8 @@ The code used for node perturbation analysis is an edited version of an [example
 
 The supplementary figures S03-S34 were generated using [matplotlib 1.5.1](https://matplotlib.org/1.5.1/contents.html)
 
-### Data organization
----
+## Data organization
+
 The files are organized into the following structure:
 
 
@@ -34,8 +34,8 @@ There are two types of analyses: **node perturbation** and **attractor analysis*
 
 
 
-### Citation
----
+## Citation
+
 This work is under review. During the review period, if you use any of this work, please contact the authors for citation details.
 
 **Title:** A novel in silico approach for discovery of microRNA-TF regulation of DISC1 interactome mediating neuronal migration
@@ -51,8 +51,8 @@ This work is under review. During the review period, if you use any of this work
 <sup>4</sup>Departments of Psychiatry, Mental Health, Neuroscience, and Biomedical Engineering, Johns Hopkins University, School of Medicine, Bloomberg School of Public Health, Baltimore, MD 21287, USA.
 
 
-### Correspondence
----
+## Correspondence
+
 Dr. John P. John (jpj@nimhans.ac.in, jpjnimhans@gmail.com)
 
 

@@ -1,0 +1,218 @@
+Attractors in original network:
+Attractor 1 is a simple attractor consisting of 1 state(s):
+
+ |--<------------------|
+ V                     |
+ 1111111111101000111   |
+ V                     |
+ |-->------------------|
+
+
+Genes are encoded in the following order: PCM1 BBS4 CDK5 DIXC1 NDEL1 A4 PAFAH1B1 DAB1 CC141 MYH2 ZNF365 GSK3B DISC1 SOX10 FOXD3 RHEB ACTB AKT1 GRDN
+
+Attractor 2 is a simple attractor consisting of 1 state(s):
+
+ |--<------------------|
+ V                     |
+ 1111111111001000111   |
+ V                     |
+ |-->------------------|
+
+
+Genes are encoded in the following order: PCM1 BBS4 CDK5 DIXC1 NDEL1 A4 PAFAH1B1 DAB1 CC141 MYH2 ZNF365 GSK3B DISC1 SOX10 FOXD3 RHEB ACTB AKT1 GRDN
+
+Attractor 3 is a simple attractor consisting of 1 state(s):
+
+ |--<------------------|
+ V                     |
+ 1111101011101000111   |
+ V                     |
+ |-->------------------|
+
+
+Genes are encoded in the following order: PCM1 BBS4 CDK5 DIXC1 NDEL1 A4 PAFAH1B1 DAB1 CC141 MYH2 ZNF365 GSK3B DISC1 SOX10 FOXD3 RHEB ACTB AKT1 GRDN
+
+Attractor 4 is a simple attractor consisting of 1 state(s):
+
+ |--<------------------|
+ V                     |
+ 1111101011001000111   |
+ V                     |
+ |-->------------------|
+
+
+Genes are encoded in the following order: PCM1 BBS4 CDK5 DIXC1 NDEL1 A4 PAFAH1B1 DAB1 CC141 MYH2 ZNF365 GSK3B DISC1 SOX10 FOXD3 RHEB ACTB AKT1 GRDN
+
+Attractor 5 is a simple attractor consisting of 1 state(s):
+
+ |--<------------------|
+ V                     |
+ 1100111111101000111   |
+ V                     |
+ |-->------------------|
+
+
+Genes are encoded in the following order: PCM1 BBS4 CDK5 DIXC1 NDEL1 A4 PAFAH1B1 DAB1 CC141 MYH2 ZNF365 GSK3B DISC1 SOX10 FOXD3 RHEB ACTB AKT1 GRDN
+
+Attractor 6 is a simple attractor consisting of 1 state(s):
+
+ |--<------------------|
+ V                     |
+ 1100111111001000111   |
+ V                     |
+ |-->------------------|
+
+
+Genes are encoded in the following order: PCM1 BBS4 CDK5 DIXC1 NDEL1 A4 PAFAH1B1 DAB1 CC141 MYH2 ZNF365 GSK3B DISC1 SOX10 FOXD3 RHEB ACTB AKT1 GRDN
+
+Attractor 7 is a simple attractor consisting of 1 state(s):
+
+ |--<------------------|
+ V                     |
+ 1100101011101000111   |
+ V                     |
+ |-->------------------|
+
+
+Genes are encoded in the following order: PCM1 BBS4 CDK5 DIXC1 NDEL1 A4 PAFAH1B1 DAB1 CC141 MYH2 ZNF365 GSK3B DISC1 SOX10 FOXD3 RHEB ACTB AKT1 GRDN
+
+Attractor 8 is a simple attractor consisting of 1 state(s):
+
+ |--<------------------|
+ V                     |
+ 1100101011001000111   |
+ V                     |
+ |-->------------------|
+
+
+Genes are encoded in the following order: PCM1 BBS4 CDK5 DIXC1 NDEL1 A4 PAFAH1B1 DAB1 CC141 MYH2 ZNF365 GSK3B DISC1 SOX10 FOXD3 RHEB ACTB AKT1 GRDN
+
+Attractor 9 is a simple attractor consisting of 1 state(s):
+
+ |--<------------------|
+ V                     |
+ 0011111111101000111   |
+ V                     |
+ |-->------------------|
+
+
+Genes are encoded in the following order: PCM1 BBS4 CDK5 DIXC1 NDEL1 A4 PAFAH1B1 DAB1 CC141 MYH2 ZNF365 GSK3B DISC1 SOX10 FOXD3 RHEB ACTB AKT1 GRDN
+
+Attractor 10 is a simple attractor consisting of 1 state(s):
+
+ |--<------------------|
+ V                     |
+ 0011111111001000111   |
+ V                     |
+ |-->------------------|
+
+
+Genes are encoded in the following order: PCM1 BBS4 CDK5 DIXC1 NDEL1 A4 PAFAH1B1 DAB1 CC141 MYH2 ZNF365 GSK3B DISC1 SOX10 FOXD3 RHEB ACTB AKT1 GRDN
+
+Attractor 11 is a simple attractor consisting of 1 state(s):
+
+ |--<------------------|
+ V                     |
+ 0011101011101000111   |
+ V                     |
+ |-->------------------|
+
+
+Genes are encoded in the following order: PCM1 BBS4 CDK5 DIXC1 NDEL1 A4 PAFAH1B1 DAB1 CC141 MYH2 ZNF365 GSK3B DISC1 SOX10 FOXD3 RHEB ACTB AKT1 GRDN
+
+Attractor 12 is a simple attractor consisting of 1 state(s):
+
+ |--<------------------|
+ V                     |
+ 0010000000110111000   |
+ V                     |
+ |-->------------------|
+
+
+Genes are encoded in the following order: PCM1 BBS4 CDK5 DIXC1 NDEL1 A4 PAFAH1B1 DAB1 CC141 MYH2 ZNF365 GSK3B DISC1 SOX10 FOXD3 RHEB ACTB AKT1 GRDN
+
+Attractor 13 is a simple attractor consisting of 1 state(s):
+
+ |--<------------------|
+ V                     |
+ 0010000000010111000   |
+ V                     |
+ |-->------------------|
+
+
+Genes are encoded in the following order: PCM1 BBS4 CDK5 DIXC1 NDEL1 A4 PAFAH1B1 DAB1 CC141 MYH2 ZNF365 GSK3B DISC1 SOX10 FOXD3 RHEB ACTB AKT1 GRDN
+
+Attractor 14 is a simple attractor consisting of 1 state(s):
+
+ |--<------------------|
+ V                     |
+ 0000111111101000111   |
+ V                     |
+ |-->------------------|
+
+
+Genes are encoded in the following order: PCM1 BBS4 CDK5 DIXC1 NDEL1 A4 PAFAH1B1 DAB1 CC141 MYH2 ZNF365 GSK3B DISC1 SOX10 FOXD3 RHEB ACTB AKT1 GRDN
+
+Attractor 15 is a simple attractor consisting of 1 state(s):
+
+ |--<------------------|
+ V                     |
+ 0000111111001000111   |
+ V                     |
+ |-->------------------|
+
+
+Genes are encoded in the following order: PCM1 BBS4 CDK5 DIXC1 NDEL1 A4 PAFAH1B1 DAB1 CC141 MYH2 ZNF365 GSK3B DISC1 SOX10 FOXD3 RHEB ACTB AKT1 GRDN
+
+Attractor 16 is a simple attractor consisting of 1 state(s):
+
+ |--<------------------|
+ V                     |
+ 0000101011101000111   |
+ V                     |
+ |-->------------------|
+
+
+Genes are encoded in the following order: PCM1 BBS4 CDK5 DIXC1 NDEL1 A4 PAFAH1B1 DAB1 CC141 MYH2 ZNF365 GSK3B DISC1 SOX10 FOXD3 RHEB ACTB AKT1 GRDN
+
+Attractor 17 is a simple attractor consisting of 1 state(s):
+
+ |--<------------------|
+ V                     |
+ 0000000000110111000   |
+ V                     |
+ |-->------------------|
+
+
+Genes are encoded in the following order: PCM1 BBS4 CDK5 DIXC1 NDEL1 A4 PAFAH1B1 DAB1 CC141 MYH2 ZNF365 GSK3B DISC1 SOX10 FOXD3 RHEB ACTB AKT1 GRDN
+
+Attractor 18 is a simple attractor consisting of 1 state(s):
+
+ |--<------------------|
+ V                     |
+ 0000000000010111000   |
+ V                     |
+ |-->------------------|
+
+
+Genes are encoded in the following order: PCM1 BBS4 CDK5 DIXC1 NDEL1 A4 PAFAH1B1 DAB1 CC141 MYH2 ZNF365 GSK3B DISC1 SOX10 FOXD3 RHEB ACTB AKT1 GRDN
+
+Number of occurrences of the original attractors in 3000 perturbed copies of the network:
+Attractor 1: 1233
+Attractor 2: 1227
+Attractor 3: 1374
+Attractor 4: 1371
+Attractor 5: 1323
+Attractor 6: 1305
+Attractor 7: 1464
+Attractor 8: 1449
+Attractor 9: 1393
+Attractor 10: 1392
+Attractor 11: 1531
+Attractor 12: 1795
+Attractor 13: 1798
+Attractor 14: 1483
+Attractor 15: 1470
+Attractor 16: 1621
+Attractor 17: 1803
+Attractor 18: 1806

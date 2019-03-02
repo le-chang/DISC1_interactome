@@ -1,0 +1,59 @@
+
+# lines starting with the # symbol are comments
+
+
+#
+# T-cell large granular lymphocyte leukemia model
+#
+# Node initialization below, 
+# ( all other nodes are set to false inside the program)
+#
+
+Migration = CDK5 = DIXDC1 = DISC1 = NDEL1 = True
+
+#
+# Model specification syntax
+#
+# rank: new-node1 *=  node1 and node2 or node3  ... etc
+#
+# the first number is the rank (all are set to 1 here)
+#
+# 1: A *= A or B
+#
+# means that the new value of A is equal to the old values 
+# of A and B combined with the operator 'or'
+#
+# model starts below
+#
+1: CDK5* = not miR155 and not (CREB1 or CCND1 or KLF4 or SMAD2 or SMAD3)
+1: DIXDC1* = (CDK5 and DISC1) and not (KLF4 or RXR)
+1: NDEL1* = DIXDC1 and not (miR103a or CCND1 or CREB1 or POU5F1 or TAL1)
+1: DISC1* = not (TAL1 or TCF3 or STAT3)
+1: CREB1* = not (miR33b or miR103a)
+1: CCND1* = not (miR20a or miR17)
+1: KLF4* = not (miR145 or miR10b)
+1: SMAD2* = not (miR188)
+1: SMAD3* = not (miR145 or miR143)
+1: RXR* = not (miR423)
+1: POU5F1* = not miR145
+1: TAL1* = not miR223
+1: TCF3* = not miR320a
+1: STAT3* = not (miR155 or miR106a or miR20a  or miR17 or miR130a or miR125b or miR20b)
+1: miR155* = STAT3
+1: miR103a* = CREB1
+1: miR33b* = CREB1
+1: miR20a* = CCND1 or STAT3
+1: miR17* = CCND1 or STAT3
+1: miR145* = KLF4 or SMAD3 or POU5F1
+1: miR10b* = KLF4
+1: miR188* = SMAD2
+1: miR143* = SMAD3
+1: miR423* = RXR
+1: miR223* = TAL1
+1: miR320a* = TCF3
+1: miR106a* = STAT3
+1: miR130a* = STAT3
+1: miR125b* = STAT3
+1: miR20b* = STAT3
+1: Migration* = CDK5 and DIXDC1 and DISC1 and NDEL1
+

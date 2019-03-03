@@ -1,6 +1,6 @@
 ## Transcriptional regulation of the DISC1 interactome 
 
-This repository includes the files for node perturbation and attractor analysis used for analysing the transcriptional regulation of the DISC1 interactome mediating neuronal migration. The code for node perturbation analysis was adapted from [BooleanNet](https://github.com/ialbert/booleannet) and attractor analysis from [BoolNet](https://cran.r-project.org/web/packages/BoolNet/index.html) by Priyadarshini Thirunavukkarasu and Pravesh Parekh at the [Multimodal Brain Image Analysis Laboratory (MBIAL)](https://mbial.weebly.com/), supervised by Dr. John P. John in collaboration with Dr. Akira Sawa and Dr. Koko Ishizuka from Johns Hopkins University, School of Medicine, Baltimore. 
+This repository includes the files for node perturbation and attractor analysis used for analysing the transcriptional network of the DISC1 interactome regulating neuronal migration. The code for node perturbation analysis was adapted from [BooleanNet](https://github.com/ialbert/booleannet) and attractor analysis from [BoolNet](https://cran.r-project.org/web/packages/BoolNet/index.html) by Priyadarshini Thirunavukkarasu and Pravesh Parekh at the [Multimodal Brain Image Analysis Laboratory (MBIAL)](https://mbial.weebly.com/), supervised by Dr. John P. John in collaboration with Dr. Akira Sawa and Dr. Koko Ishizuka from Johns Hopkins University, School of Medicine, Baltimore. 
 
 ## Software
 
